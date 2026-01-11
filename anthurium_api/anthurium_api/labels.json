@@ -1,0 +1,3 @@
+{
+  "class_names": ["anthracnose", "bacterial_blight", "fungal", "healthy", "leaf_spot", "root_rot"]
+}
